@@ -4,5 +4,5 @@ I am a Lecturer in Scientific Computing at the University of Leeds. Previously I
 My research focus is the development of computational algorithms and tools for natural science applications such as molecular quantum physics and collective behavior in biology, including specifically also machine learning models thereof. I am also generally interested in computational orthogonal polynomials and their applications in spectral methods as well as the aforementioned machine learning models.
 
 <div align="center">
-  <img src="vacancy_fullpath.gif" width="300" height="300" title="Vacancy migration for a silicon crystal."/>
+  <img src="vacancy_fullpath.gif" width="300" height="300" title="A vacancy migration path visualization for a silicon crystal with point defect."/>
 </div>
